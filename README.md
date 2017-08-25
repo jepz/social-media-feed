@@ -1,1 +1,1 @@
-# Sofial media feed
+# Social media feed
